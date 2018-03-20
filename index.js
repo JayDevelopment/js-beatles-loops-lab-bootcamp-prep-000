@@ -1,1 +1,1 @@
-function theBeatlesPlay (array, array)
+function theBeatlesPlay (, array)
